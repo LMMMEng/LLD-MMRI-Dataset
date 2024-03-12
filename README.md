@@ -2,6 +2,10 @@
 # ➡ OneDrive: https://bit.ly/49tTWHK   
 # ➡ Baidu Netdisk: https://goo.su/MxFq2
 
+## News
+* **Mar. 12, 2024**: [MedSAM](https://www.nature.com/articles/s41467-024-44824-z) now includes support for liver lesion segmentation in the LLD-MMRI dataset. You can find more information **[here](https://github.com/LMMMEng/LLD-MMRI-Dataset/issues/2)**. We are grateful to [Dr. Jun Ma](https://github.com/JunMa11) for his contributions!
+
+
 ## Agreement
 
 - The LLD-MMRI dataset is provided solely for noncommercial research purposes.
@@ -11,15 +15,6 @@
 - You agree not to further copy, publish, or distribute any part of the LLD-MMRI dataset, except for internal use at a single site within the same organization, where making copies is permitted.
 
 - Our group reserves the right to terminate your access to the LLD-MMRI dataset at any time.
-
-## Download
-
-- **OneDrive**: https://bit.ly/49tTWHK
-- **Baidu Netdisk**: https://goo.su/MxFq2
-
-## Usage
-
-Please address [here](https://github.com/LMMMEng/LLD-MMRI2023/tree/main/main) for data preprocessing.
 
 ## Citation
 If you find this dataset useful for your research, please cite:
@@ -32,6 +27,17 @@ If you find this dataset useful for your research, please cite:
       year={2024}
 }
 ```
+
+## Download
+
+- **OneDrive**: https://bit.ly/49tTWHK
+- **Baidu Netdisk**: https://goo.su/MxFq2
+
+## Usage
+
+Please address [here](https://github.com/LMMMEng/LLD-MMRI2023/tree/main/main) for data preprocessing.
+
+
 ## License
 The LLD-MMRI dataset is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
