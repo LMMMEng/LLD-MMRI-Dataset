@@ -1,6 +1,6 @@
 # LLD-MMRI-Dataset: An Open-access Dataset for Liver Lesion Diagnosis on Multi-phase MRI
-# ➡ OneDrive: https://bit.ly/49tTWHK   
-# ➡ Baidu Netdisk: https://goo.su/MxFq2
+## 🔗 OneDrive: https://bit.ly/49tTWHK 🔗Baidu Netdisk: https://reurl.cc/VzvdaQ
+
 
 ## News
 * **Mar. 12, 2024**: [MedSAM](https://www.nature.com/articles/s41467-024-44824-z) now includes support for liver lesion segmentation in the LLD-MMRI dataset. You can find more information **[here](https://github.com/LMMMEng/LLD-MMRI-Dataset/issues/2)**. We are grateful to [Dr. Jun Ma](https://github.com/JunMa11) for his contributions!
