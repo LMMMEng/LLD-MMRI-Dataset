@@ -1,6 +1,6 @@
 # LLD-MMRI-Dataset: An Open-access Dataset for Liver Lesion Diagnosis on Multi-phase MRI
-## 🔗OneDrive: https://reurl.cc/6v362y   
-## 🔗BaiduNetdisk: https://reurl.cc/VzvdaQ
+## 🔗[OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/loumeng_connect_hku_hk/Ev1W6Br6uLNFnqaZxyfe7jcBh_V_DLapq4qKv-HyZ0qGnA?e=sblTlk)
+## 🔗[BaiduNetdisk](https://reurl.cc/VzvdaQ)
 
 
 ## News
@@ -31,8 +31,8 @@ If you find this dataset useful for your research, please cite:
 
 ## Download
 
-- **OneDrive**: https://bit.ly/49tTWHK
-- **Baidu Netdisk**: https://goo.su/MxFq2
+- **OneDrive**: [Download](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/loumeng_connect_hku_hk/Ev1W6Br6uLNFnqaZxyfe7jcBh_V_DLapq4qKv-HyZ0qGnA?e=sblTlk)
+- **Baidu Netdisk**: [Download](https://pan.baidu.com/s/1Adt1VXsbo1lUE6queXCUdA?pwd=xl28#list/path=%2F)
 
 ## Usage
 
