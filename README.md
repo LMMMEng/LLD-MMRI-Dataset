@@ -21,11 +21,13 @@
 If you find this dataset useful for your research, please cite:
 
 ```
-@article{lou2024sdrformer,
-      title={SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging}, 
-      author={Meng Lou and Hanning Ying and Xiaoqing Liu and Hong-Yu Zhou and Yuqing Zhang and Yizhou Yu},
-      journal={arXiv preprint arXiv:2402.17246},
-      year={2024}
+@article{lou2025sdr,
+  title={SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging},
+  author={Lou, Meng and Ying, Hanning and Liu, Xiaoqing and Zhou, Hong-Yu and Zhang, Yuqin and Yu, Yizhou},
+  journal={Neural Networks},
+  pages={107228},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
