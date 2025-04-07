@@ -1,10 +1,11 @@
 # LLD-MMRI-Dataset: An Open-access Dataset for Liver Lesion Diagnosis on Multi-phase MRI
+## 🔗[Hugging Face](https://huggingface.co/datasets/wanglab/LLD-MMRI-MedSAM2)
 ## 🔗[OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/loumeng_connect_hku_hk/Ev1W6Br6uLNFnqaZxyfe7jcBh_V_DLapq4qKv-HyZ0qGnA?e=sblTlk)
 ## 🔗[BaiduNetdisk](https://reurl.cc/VzvdaQ)
 
 
 ## News
-* **Mar. 12, 2024**: [MedSAM](https://www.nature.com/articles/s41467-024-44824-z) now includes support for liver lesion segmentation in the LLD-MMRI dataset. You can find more information **[here](https://github.com/LMMMEng/LLD-MMRI-Dataset/issues/2)**. We are grateful to [Dr. Jun Ma](https://github.com/JunMa11) for his contributions!
+* **March, 2025**: LLD-MMRI dataset now includes **segmentation labels**. We are extremely grateful to [Dr. Jun Ma](https://github.com/JunMa11) for his wonderful contributions! You can download pixel-wise masks [➡️**here**](https://huggingface.co/datasets/wanglab/LLD-MMRI-MedSAM2).
 
 
 ## Agreement
@@ -32,7 +33,7 @@ If you find this dataset useful for your research, please cite:
 ```
 
 ## Download
-
+- **Hugging Face**: [Download](https://huggingface.co/datasets/wanglab/LLD-MMRI-MedSAM2)
 - **OneDrive**: [Download](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/loumeng_connect_hku_hk/Ev1W6Br6uLNFnqaZxyfe7jcBh_V_DLapq4qKv-HyZ0qGnA?e=sblTlk)
 - **Baidu Netdisk**: [Download](https://pan.baidu.com/s/1Adt1VXsbo1lUE6queXCUdA?pwd=xl28#list/path=%2F)
 
